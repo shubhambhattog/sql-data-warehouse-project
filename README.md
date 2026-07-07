@@ -1,7 +1,5 @@
 # 📊 Data Warehouse and Analytics Project
 
-![Data Warehouse Banner]
-
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
 This project showcases a comprehensive solution for building a data warehouse and generating business insights through SQL-based analytics. Designed as a portfolio project, it incorporates industry best practices in **data architecture, ETL, and analytics**.
 
